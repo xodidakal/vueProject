@@ -25,7 +25,7 @@
         },
         methods: {
             loginClick() {
-                alert("login 버튼 클릭 --> "+this.myId);
+                alert("login 버튼 클릭 이거 브랜치 변경 후--> "+this.myId);
             }
         }
     }
